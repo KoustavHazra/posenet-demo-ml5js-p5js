@@ -1,2 +1,5 @@
-# posenet-demo-ml5js-p5js
-A posent application built using ml5.js
+# PoseNet Application
+
+This project is based on a JavaScript library( ml5js ) which is built on top of TensorFlow.js
+
+Live dome: https://koustavhazra.github.io/posenet-demo-ml5js-p5js/
